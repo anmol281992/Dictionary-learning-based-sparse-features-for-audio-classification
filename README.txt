@@ -4,7 +4,7 @@ The main script is:
 It requires the audio files for class 1 or 2 to be in the folders:
     dataset3/strings_all
     dataset3/percussion_all
-    You need to unzip dataset3.zip before running the code
+    You need to unzip dataset3.zip before running the code. In the github file I have not added the database due to lack of space.
 
 We assume the audio files have an '.aiff' extension. Otherwise the functions have to be changed to check different file extensions.
 
